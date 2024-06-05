@@ -1,0 +1,23 @@
+{
+  "gui.ae2.ChannelEnergyDrain": "§fChannel Passive Drain: %s",
+  "gui.ae2.CraftingTerminal": "§fCrafting Terminal",
+  "gui.ae2.Drive": "§fME Drive",
+  "gui.ae2.Inscriber": "§fInscriber",
+  "gui.ae2.MaxPower": "§fMax Power: %s",
+  "gui.ae2.NetworkDetails": "§fNetwork Details (%d §fChannels)",
+  "gui.ae2.PowerInputRate": "§fEnergy Generation: %s",
+  "gui.ae2.PowerUsageRate": "§fEnergy Usage: %s",
+  "gui.ae2.SearchSettingsAutoFocus": "§fAuto-Focus on open",
+  "gui.ae2.SearchSettingsRememberSearch": "§fRemember last search",
+  "gui.ae2.SearchSettingsSearchTooltips": "§fSearch in tooltips",
+  "gui.ae2.SearchSettingsSyncWithExternal": "§fSync with %s search",
+  "gui.ae2.SearchSettingsTitle": "§fSearch Settings",
+  "gui.ae2.SearchSettingsUseExternalSearch": "§fUse %s",
+  "gui.ae2.SearchSettingsUseInternalSearch": "§fUse AE",
+  "gui.ae2.StoredPower": "§fStored Power: %s",
+  "gui.ae2.Terminal": "§fTerminal",
+  "gui.ae2.TerminalSettingsClearGridOnClose": "§fAutomatically clear terminal grid on close (if applicable)",
+  "gui.ae2.TerminalSettingsNotifyForFinishedJobs": "§fNotify about finished crafting jobs (requires wireless terminal)",
+  "gui.ae2.TerminalSettingsPinAutoCraftedItems": "§fPin auto-crafted items to first row",
+  "gui.ae2.TerminalSettingsTitle": "§fTerminal Settings"
+}
