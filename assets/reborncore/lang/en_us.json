@@ -1,0 +1,53 @@
+{
+  "reborncore.message.active": "§fActive",
+  "reborncore.message.inactive": "§fInactive",
+  "reborncore.message.energyError": "§fNot Enough Energy:",
+  "reborncore.message.deactivating": "§fDeactivating",
+  "reborncore.message.setTo": "§fSet to",
+
+  "reborncore.tooltip.energy.maxEnergy": "§fMax Energy",
+  "reborncore.tooltip.energy.inputRate": "§fInput Rate",
+  "reborncore.tooltip.energy.outputRate": "§fOutput Rate",
+  "reborncore.tooltip.energy.tier": "§fTier",
+  "reborncore.tooltip.energy.change": "§fEnergy Change",
+  "reborncore.tooltip.energy": "§fEnergy Stored",
+  "reborncore.tooltip.has_data": "§fStored data",
+
+  "reborncore.gui.heat": "§fHeat",
+  "reborncore.gui.missingmultiblock": "§fIncomplete Multiblock",
+
+  "reborncore.gui.tooltip.config_slots": "§fConfigure Slots",
+  "reborncore.gui.tooltip.config_fluids": "§fConfigure Fluids",
+  "reborncore.gui.tooltip.config_redstone": "§fConfigure Redstone",
+  "reborncore.gui.tooltip.hologram": "§fToggle Multiblock Hologram",
+  "reborncore.gui.tooltip.lock_items": "§fLock Items",
+  "reborncore.gui.tooltip.power_charged": "§fCharged",
+  "reborncore.gui.tooltip.power_moreinfo": "§ffor more info",
+  "reborncore.gui.tooltip.dsu_fullness": "§fFull",
+  "reborncore.gui.tooltip.tank_amount": "§f%s / %s",
+  "reborncore.gui.tooltip.tank_empty": "§fEmpty Tank",
+  "reborncore.gui.tooltip.tank_fullness": "§fFull",
+  "reborncore.gui.tooltip.unlock_items": "§fUnlock Items",
+  "reborncore.gui.tooltip.upgrades": "§fMachine upgrades",
+
+  "reborncore.gui.slotconfig.autoinput": "§fAuto Input",
+  "reborncore.gui.slotconfig.autooutput": "§fAuto Output",
+  "reborncore.gui.slotconfig.filter_input": "§fFilter Input",
+
+  "reborncore.gui.slotconfigtip.slot": "§fClick on slot to configure.",
+  "reborncore.gui.slotconfigtip.side1": "§fOrange side means output.",
+  "reborncore.gui.slotconfigtip.side2": "§fBlue side means input.",
+  "reborncore.gui.slotconfigtip.side3": "§fGreen side means both.",
+  "reborncore.gui.slotconfigtip.copy1": "§fCtrl+C to copy slot config.",
+  "reborncore.gui.slotconfigtip.copy2": "§fCtrl+V to paste slot config.",
+
+  "reborncore.gui.fluidconfig.pullin": "§fPull In",
+  "reborncore.gui.fluidconfig.pumpout": "§fPump Out",
+  "reborncore.gui.fluidconfig.item_io": "§fItem I/O",
+  "reborncore.gui.fluidconfig.power_io": "§fPower I/O",
+  "reborncore.gui.fluidconfig.fluid_io": "§fFluid I/O",
+  "reborncore.gui.fluidconfig.recipe_processing": "§fCrafting",
+  "reborncore.gui.fluidconfig.ignored": "§fIgnored",
+  "reborncore.gui.fluidconfig.enabled_on": "§f§cRedstone §aOn",
+  "reborncore.gui.fluidconfig.enabled_off": "§f§cRedstone §4Off"
+}
